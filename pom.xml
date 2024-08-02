@@ -101,7 +101,7 @@
                 <artifactId>maven-dependency-plugin</artifactId>
                 <version>3.7.1</version>
                 <configuration>
-                    <outputDirectory>${project.build.directory}/lib/</outputDirectory>
+                    <outputDirectory>${project.build.directory}/lib</outputDirectory>
                 </configuration>
                 <executions>
                     <execution>
